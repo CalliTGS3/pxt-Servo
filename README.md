@@ -1,6 +1,6 @@
 # Servo
 
-Extension for PCA9685 Servo control ,Use with Micro:bit
+Extension for PCA9685 Servo control ,Use with Micro:bit and Calliope mini
 
 ## License
 
