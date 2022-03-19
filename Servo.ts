@@ -1,12 +1,9 @@
-
 /**
- * 使用此文件来定义自定义函数和图形块。
- * 想了解更详细的信息，请前往 https://makecode.microbit.org/blocks/custom
+ * Original code from
+ * https://github.com/waveshare/pxt-Servo
+ * MIT License
  */
 
-/**
- * 自定义图形块
- */
 //% weight=5 color=#0fbc11 icon="\uf113"
 namespace Servo {
     const PCA9685_ADDRESS = 0x40
